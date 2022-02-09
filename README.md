@@ -2,11 +2,11 @@
 predict the rating of a movie based on its description using a logistic regression model by [Agustin](https://www.linkedin.com/in/agustin-carcelen-chicote-b70048231/)
 
 ## Table of content
-- [Description](https://github.com/AgustinCarcelen/rating-movie-by-description/edit/blob/README.md#Description)
+- [Description](https://github.com/AgustinCarcelen/rating-movie-by-description#readme#Description)
 - [Pre requirements](https://github.com/AgustinCarcelen/rating-movie-by-description/edit/blob/README.md#Pre-requirements)
 - [Process](https://github.com/AgustinCarcelen/rating-movie-by-description/edit/blob/README.md#Process)
 - [Result](https://github.com/AgustinCarcelen/rating-movie-by-description/edit/blob/README.md#Result)
-- [How to improve](https://github.com/AgustinCarcelen/rating-movie-by-description/blob/main/README.md#How-to-improve)
+- [How to improve](https://github.com/AgustinCarcelen/rating-movie-by-description#readme#How-to-improve)
 
 ## Description
 Our goal is to predict the rating of a movie based on its description.<br/>
